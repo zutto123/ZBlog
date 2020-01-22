@@ -10,4 +10,4 @@
 
 ### 三、js基础
 - [js基础之 bind、call、apply](https://github.com/zutto123/ZBlog/issues/3)
-- [js基础之 执行栈及任务队列](https://github.com/zutto123/ZBlog/issues/3)
+- [js基础之 事件循环机制](https://github.com/zutto123/ZBlog/issues/3)
