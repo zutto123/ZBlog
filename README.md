@@ -15,6 +15,3 @@
 
 ### 四、算法
 - [js排序算法](https://github.com/zutto123/ZBlog/issues/7)
-
-### 、其他
-
